@@ -25,6 +25,7 @@ function minutesAway(firstTrain, frequency) {
   var difference = moment().diff(firstTrainTime, 'minutes');
   var result = ((difference / frequency) + 1) * frequency;
   result = result - difference;
+  result = Math.round(result);
   return result;
 }
 
