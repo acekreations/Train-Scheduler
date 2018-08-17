@@ -17,9 +17,7 @@ Create a train and find out when it's next arriving!
 
 ## Challenges
 
-This was the first time I have worked with localStorage, although setting and getting my stored data was simple, figuring out the best way to store a users favorite gifs proved a bit tricky. I ultimately settled on storing one key/value pair with an array of objects that contained the necessary urls to retrieve the users gifs.
-
-![](assets/images/obj-screenshot.png)
+Moment JS proved to be difficult to grasp, but after repeatedly reading through the documentation and experimenting with code I was able to gain a fairly strong understanding of how it works. I had no idea how difficult it is to work with times and dates until this project. Now I have a significant appreciation for what Moment accomplishes, and in hind sight, how easy they make it.
 
 ## Author
 Craig Melville
