@@ -2,7 +2,7 @@
 
 Create a train and find out when it's next arriving!
 
-[Live Site](https://acekreations.github.io/Giphy-Art/)
+[Live Site](https://acekreations.github.io/Train-Scheduler/)
 
 ![](assets/images/screenshot.png)
 
